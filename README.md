@@ -1,4 +1,4 @@
-# snt
+# TokuApp
 
 A new Flutter project.
 
